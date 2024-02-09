@@ -11,7 +11,4 @@ export default defineNuxtConfig({
   tailwindcss: {
     cssPath: "~/styles/main.css",
   },
-  eslint: {
-    eslintPath: "~/eslint.config.js",
-  },
 });
